@@ -1,7 +1,7 @@
 # COVID vs non-COVID
 
 ![python](https://img.shields.io/pypi/pyversions/TensorFlow)
-![repo size](https://img.shields.io/github/repo-size/Lucastmarques/Covid_vs_non-Covid)
+![dataset size](https://img.shields.io/github/size/Lucastmarques/Covid_vs_non-Covid/covid_or_non-covid.zip)
 ![open issues](https://img.shields.io/github/issues/Lucastmarques/Covid_vs_non-Covid)
 ![pull requests](https://img.shields.io/github/issues-pr/Lucastmarques/Covid_vs_non-Covid)
 ![last commit](https://img.shields.io/github/last-commit/Lucastmarques/Covid_vs_non-Covid)
