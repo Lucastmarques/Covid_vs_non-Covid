@@ -1,11 +1,11 @@
 # COVID vs non-COVID
 
+![python](https://img.shields.io/pypi/pyversions/TensorFlow)
 ![repo size](https://img.shields.io/github/repo-size/Lucastmarques/Covid_vs_non-Covid)
-![repo count](https://img.shields.io/github/directory-file-count/Lucastmarques/Covid_vs_non-Covid?type=file)
 ![open issues](https://img.shields.io/github/issues/Lucastmarques/Covid_vs_non-Covid)
 ![pull requests](https://img.shields.io/github/issues-pr/Lucastmarques/Covid_vs_non-Covid)
 
-<img src="https://www.pfizer.com.br/sites/default/files/inline-images/covid-19_0.jpg" width="1000px;" alt="COVID image">
+<img src="https://www.pfizer.com.br/sites/default/files/inline-images/covid-19_0.jpg" width="1100px;" alt="COVID image">
 
 > O repositório contém o dataset utilizado para o treinamento, validação e teste do modelo, retirado diretamente do Kaggle. O modelo foi construído utilizando-se técnicas de Deep learning e possui a arquitetura do ResNet50, importado da biblioteca do TensorFlow.
 
@@ -18,6 +18,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Fine Tuning
 - [x] WandB para o Track dos treinamentos
 - [ ] Testar em outras arquiteturas de CNN
+- [ ] Realizar o Hyperparameter Tuning
 
 ## 💻 Pré-requisitos
 
