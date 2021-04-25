@@ -5,7 +5,7 @@
 ![open issues](https://img.shields.io/github/issues/Lucastmarques/Covid_vs_non-Covid)
 ![pull requests](https://img.shields.io/github/issues-pr/Lucastmarques/Covid_vs_non-Covid)
 
-<img src="covid_image.png" alt="COVID image">
+<img src="covid_image.jpg" alt="COVID image">
 
 > O repositório contém o dataset utilizado para o treinamento, validação e teste do modelo, retirado diretamente do Kaggle. O modelo foi construído utilizando-se técnicas de Deep learning e possui a arquitetura do ResNet50, importado da biblioteca do TensorFlow.
 
