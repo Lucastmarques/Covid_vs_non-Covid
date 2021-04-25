@@ -4,6 +4,9 @@
 ![repo size](https://img.shields.io/github/repo-size/Lucastmarques/Covid_vs_non-Covid)
 ![open issues](https://img.shields.io/github/issues/Lucastmarques/Covid_vs_non-Covid)
 ![pull requests](https://img.shields.io/github/issues-pr/Lucastmarques/Covid_vs_non-Covid)
+![last commit](https://img.shields.io/github/last-commit/Lucastmarques/Covid_vs_non-Covid)
+![Stars](https://img.shields.io/github/stars/Lucastmarques/Covid_vs_non-Covid?style=social)
+
 
 <img src="https://www.pfizer.com.br/sites/default/files/inline-images/covid-19_0.jpg" width="1100px;" alt="COVID image">
 
