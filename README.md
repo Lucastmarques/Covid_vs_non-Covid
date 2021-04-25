@@ -53,7 +53,7 @@ Para usar Covid_vs_non-Covid, siga estas etapas:
 Nota: É possível executar o projeto em uma máquina local através do [Visual Studio Code](https://code.visualstudio.com/) com o pacote [Jupyter](https://pypi.org/project/jupyter/) instalado, ou através do [Jupyter](https://jupyter.org/) instalado através do [Anaconda](https://www.anaconda.com/).
 
 ## 📫 Contribuindo para Covid_vs_non-Covid
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com Covid_vs_non-Covid, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
