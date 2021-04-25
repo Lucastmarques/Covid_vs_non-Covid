@@ -2,7 +2,7 @@
 
 ![repo size](https://img.shields.io/github/repo-size/Lucastmarques/Covid_vs_non-Covid)
 ![repo count](https://img.shields.io/github/directory-file-count/Lucastmarques/Covid_vs_non-Covid?type=file)
-![open issues](https://img.shields.io/github/issues-raw/Lucastmarques/Covid_vs_non-Covid)
+![open issues](https://img.shields.io/github/issues/Lucastmarques/Covid_vs_non-Covid)
 ![pull requests](https://img.shields.io/github/issues-pr/Lucastmarques/Covid_vs_non-Covid)
 
 <img src="covid_image.png" alt="COVID image">
