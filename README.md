@@ -107,8 +107,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Informações Adicionais
 Para acessar algumas informações adicionais do COVID vs non-COVID, acesse:
-* ![Modelos treinados](https://drive.google.com/drive/folders/1-QF_ZrK_DnOd4PrLosNSI-5T9DlSZiIY?usp=sharing)
-* ![Dataset no formato HDF5](https://drive.google.com/drive/folders/1-4BmHK1KfC_KhnuziI6AnPrbUdRGBLBA?usp=sharing)
+* [Modelos treinados](https://drive.google.com/drive/folders/1-QF_ZrK_DnOd4PrLosNSI-5T9DlSZiIY?usp=sharing)
+* [Dataset no formato HDF5](https://drive.google.com/drive/folders/1-4BmHK1KfC_KhnuziI6AnPrbUdRGBLBA?usp=sharing)
 
 ## ⚖ Licença
 
