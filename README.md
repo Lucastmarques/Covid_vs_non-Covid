@@ -32,9 +32,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma conta no Google com acesso ao Google Colab.
 * Você leu o artigo do [Medium]() explicando o passo a passo da implementação.
 
-## 🚀 Instalando Covid_vs_non-Covid
+## 🚀 Instalando COVID vs non-COVID
 
-Para instalar o Covid_vs_non-Covid, siga estas etapas:
+Para instalar o COVID vs non-COVID, siga estas etapas:
 
 Linux e macOS pelo terminal:
 ```
@@ -46,9 +46,9 @@ Windows no terminal do GitBash:
 git clone https://github.com/Lucastmarques/Covid_vs_non-Covid.git
 ```
 
-## ☕ Usando Covid_vs_non-Covid
+## ☕ Usando COVID vs non-COVID
 
-Para usar Covid_vs_non-Covid, siga estas etapas:
+Para usar COVID vs non-COVID, siga estas etapas:
 
 * Após o clone do repositório, faça o upload do arquivo `COVID_or_Non-COVID.ipynb`.
 * Abra o arquivo `COVID_or_Non-COVID.ipynb` com o Google Colab.
@@ -105,7 +105,12 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <!---Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.--->
 
-## 📝 Licença
+## 📝 Informações Adicionais
+Para acessar algumas informações adicionais do COVID vs non-COVID, acesse:
+* ![Modelos treinados](https://drive.google.com/drive/folders/1-QF_ZrK_DnOd4PrLosNSI-5T9DlSZiIY?usp=sharing)
+* ![Dataset no formato HDF5](https://drive.google.com/drive/folders/1-4BmHK1KfC_KhnuziI6AnPrbUdRGBLBA?usp=sharing)
+
+## ⚖ Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
