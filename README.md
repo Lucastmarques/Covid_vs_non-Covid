@@ -30,7 +30,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do Python3, WandB, OpenCV, Matplotlib, TensorFlow2.x e Pandas.
 * Você tem uma máquina com Linux/macOS ou Windows com o GitBash instalado.
 * Você tem uma conta no Google com acesso ao Google Colab.
-* Você leu o artigo do [Medium]() explicando o passo a passo da implementação.
+* Você leu o artigo do [Medium](https://lucastorres-1165.medium.com/covid-vs-non-covid-5bb52a5c0e87) explicando o passo a passo da implementação.
 
 ## 🚀 Instalando COVID vs non-COVID
 
